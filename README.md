@@ -43,6 +43,19 @@
 
 ### **요구사항정의서**
 
+![요구사항정의서0318_2](https://user-images.githubusercontent.com/125838428/228608047-59569b03-3974-4ae6-bd5d-e0e185a85131.png)
+
+### **USECASE**
+
+![유스케이스](https://user-images.githubusercontent.com/125838428/228608678-b060e293-e48c-4f0f-846c-17ae99bba0eb.jpg)
+
+### **DFD**
+
+![DFD](https://user-images.githubusercontent.com/125838428/228608693-18f78ac3-e0e2-4435-9575-79ff36625ede.jpg)
+
+---
+
+
 
 
 
